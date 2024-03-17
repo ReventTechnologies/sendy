@@ -4,13 +4,13 @@
 	//----------------------------------------------------------------------------------//
 	
 	/*  Set the URL to your Sendy installation (without the trailing slash) */
-	define('APP_PATH', 'https://your_sendy_installation_url');
-	
+	define('APP_PATH', 'https://sendy-email.flowmono.com');
+
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
-	$dbHost = ''; //MySQL Hostname
-	$dbUser = ''; //MySQL Username
-	$dbPass = ''; //MySQL Password
-	$dbName = ''; //MySQL Database Name
+	$dbHost = 'brands-db.mysql.database.azure.com'; //MySQL Hostname
+	$dbUser = 'dbadmin'; //MySQL Username
+	$dbPass = 'NO&uR918ZB!+'; //MySQL Password
+	$dbName = 'brands-db'; //MySQL Database Name
 	
 	
 	//----------------------------------------------------------------------------------//	
